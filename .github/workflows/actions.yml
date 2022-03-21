@@ -11,3 +11,4 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           version: '3.0.0'
+          baseUrl: '/markbind_actions_test'
