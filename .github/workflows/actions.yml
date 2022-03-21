@@ -10,4 +10,3 @@ jobs:
         uses: tlylt/markbind-deploy@main
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          baseUrl: '/markbind_actions_test/archive'

@@ -1,5 +1,5 @@
 {
-  "baseUrl": "/markbind_actions_test/archive",
+  "baseUrl": "/markbind_actions_test",
   "titlePrefix": "",
   "ignore": [
     "_markbind/layouts/*",
