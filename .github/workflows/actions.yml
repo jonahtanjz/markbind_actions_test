@@ -10,3 +10,4 @@ jobs:
         uses: tlylt/markbind-deploy@main
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          version: '3.0.0'
