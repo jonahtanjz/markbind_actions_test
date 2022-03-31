@@ -11,3 +11,4 @@ jobs:
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
           baseUrl: '/markbind_actions_test'
+          keepFiles: true
