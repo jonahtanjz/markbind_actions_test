@@ -15,7 +15,7 @@
 
 ->Center-align<-
 
-# Heading 11
+# Heading 1
 Some text some text some text some text some text some text some text. **Some text some text some text some text some text ==some text== some text**. Some text some text some text some text some text some text some text some text some text some text some text some text some text some text. Some text some text some text some text some text some text. Some text some text some text some text some text some text some text.
 
 **A block quote:**
