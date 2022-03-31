@@ -7,8 +7,8 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Build & Deploy to GitHub Pages
-        uses: MarkBind/markbind-action@release/v2
+        uses: tlylt/markbind-deploy@main
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          version: '3.0.0'
           baseUrl: '/markbind_actions_test'
-          keepFiles: true
